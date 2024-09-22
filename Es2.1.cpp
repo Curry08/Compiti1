@@ -11,4 +11,3 @@ int main() {
     printf("La media è %f",media);
     return 0;
 }
-ciao
